@@ -28,25 +28,25 @@ To follow these usage guides, you will need to:
 
 <!-- Make sure this section is in sync with docs/README.md -->
 
-# Getting started
+# 开始使用
 
-You can follow our [getting started guide](docs/), which will provide instructions on how to create an app using plain Node.js code, or the [Express](https://expressjs.com/) framework. Both examples are written in Typescript.
+您可以参考我们的 [入门指南](docs/), 它将提供有关如何使用原始Node.js代码来创建应用程序的说明, 或采用[Express](https://expressjs.com/) 框架. 两种例子都采用Typescript编码.
 
-- [Getting started](docs/getting_started.md)
-  - [Install dependencies](docs/getting_started.md#install-dependencies)
-  - [Set up base files](docs/getting_started.md#set-up-base-files)
-  - [Set up environment](docs/getting_started.md#set-up-environment)
-  - [Set up Context](docs/getting_started.md#set-up-context)
-  - [Running your app](docs/getting_started.md#running-your-app)
-- [Performing OAuth](docs/usage/oauth.md)
-  - [Add a route to start OAuth](docs/usage/oauth.md#add-a-route-to-start-oauth)
-  - [Add your OAuth callback route](docs/usage/oauth.md#add-your-oauth-callback-route)
-  - [Fetching sessions](docs/usage/oauth.md#fetching-sessions)
-  - [Detecting scope changes](docs/usage/oauth.md#detecting-scope-changes)
-- [Make a REST API call](docs/usage/rest.md)
-- [Make a GraphQL API call](docs/usage/graphql.md)
+- [入门指南](docs/getting_started.md)
+  - [安装依赖](docs/getting_started.md#install-dependencies)
+  - [设置基本文件](docs/getting_started.md#set-up-base-files)
+  - [设置环境](docs/getting_started.md#set-up-environment)
+  - [设置上下文](docs/getting_started.md#set-up-context)
+  - [运行app](docs/getting_started.md#running-your-app)
+- [执行OAuth](docs/usage/oauth.md)
+  - [添加路由来启用OAuth](docs/usage/oauth.md#add-a-route-to-start-oauth)
+  - [添加OAuth回调路由](docs/usage/oauth.md#add-your-oauth-callback-route)
+  - [获取sessions](docs/usage/oauth.md#fetching-sessions)
+  - [检测scope变更](docs/usage/oauth.md#detecting-scope-changes)
+- [发起 REST API 调用](docs/usage/rest.md)
+- [发起 GraphQL API 调用](docs/usage/graphql.md)
 - [Webhooks](docs/usage/webhooks.md)
-  - [Register a Webhook](docs/usage/webhooks.md#register-a-webhook)
-  - [Process a Webhook](docs/usage/webhooks.md#process-a-webhook)
-- [Known issues and caveats](docs/issues.md)
-  - [Notes on session handling](docs/issues.md#notes-on-session-handling)
+  - [注册 Webhook](docs/usage/webhooks.md#register-a-webhook)
+  - [执行 Webhook](docs/usage/webhooks.md#process-a-webhook)
+- [已知问题和注意事项](docs/issues.md)
+  - [会话处理说明](docs/issues.md#notes-on-session-handling)
